@@ -56,4 +56,4 @@ Contact
 For any questions or issues, please open an issue on the GitHub repository or contact the author.
 
 vbnet: 
-Feel free to adjust any details such as the Python version, instructions, or project specifics to match the actual repository contents and your project's requirements.
+Feel free to adjust any details such as the Python version, instructions, or project specifics to match the actual repository contents and your project's requirements
