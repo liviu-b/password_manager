@@ -4,9 +4,9 @@ A simple password manager built with Python. This project allows you to securely
 
 ## Features
 
-- Add, update, and delete passwords
-- Secure storage using encryption
-- Easy-to-use command-line interface
+- Add, update, and delete passwords;
+- Secure storage using encryption;
+- Easy-to-use command-line interface.
 
 ## Requirements
 
