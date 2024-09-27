@@ -7,7 +7,7 @@ A simple password manager built with Python. This project allows you to securely
 - Add, update, and delete passwords;
 - Secure storage using encryption;
 - Easy-to-use command-line interface.
-
+ 
 ## Requirements
 
 - Python 3.8 or higher
